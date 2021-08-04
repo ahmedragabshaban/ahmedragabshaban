@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmed Megahd</h1>
-<h3 align="center"> Senior Full-stack Engineer @AQuadic | CTO @ x90T| Google Cloud Platform Expert @ Directly | Facebook F8 |TypeScript/Angular/Ionic/Node.js/PHP |Harvard CELP & VPE program | Google Scholar Mobile Web Mentor | Forbes Under 30 Scholar </h3>
+<h3 align="center"> 
+Hi 😃, Co-Founder and CBDO Lead Full-stack Software Engineer @AQuadic Software Solutions with More than 30 Projects delivered in 10 industries for Countries in the USA and EMEA. | CTO @x90T (a Cybersecurity learning platform) we are Always under attack 😅| Google Cloud Platform Expert @Directly and resolve common development questions on Google Technologies |Andela Google Africa Developer Scholarship Mobile Web Mentor | Mobile Application Developer Pickdevs.UK.co I was working with CTO directly and Mentoring team | Optimizing performance on RegioJet.CZ Inc (2007) app (Like Uber) in more than 90 European cities.
+
+Harvard CELP & VPE, Facebook F8 Developer conference, Forbes Under 30 Scholar, THE INTERNET OF THINGS - King's College London Technical Member and content Writer at HackerRank
+Technologies:- Limitless, but focused too with 4-5 Years of experience TypeScript,Angular,Ionic,Node.js, PHP, Laravel,Nest.js,...
+Simply, Your technical Partner !!😁😎
+
+
+</h3>
 
 <p align="left"> <a href="https://twitter.com/ahmedragabshaba" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedragabshaba?logo=twitter&style=for-the-badge" alt="ahmedragabshaba" /></a> </p>
 
