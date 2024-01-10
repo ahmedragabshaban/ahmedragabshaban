@@ -2,8 +2,6 @@
 <h4 align="center" style="font-size:2.75rem;"> 
 Hi 😃, Co-Founder and CBDO Lead Full-stack Software Engineer @AQuadic Software Solutions with More than 35 Projects delivered in 7 industries for Countries in the USA and EMEA. | CTO @x90T (a Cybersecurity learning platform) we are Always under attack 😅| Google Cloud Platform Expert @Directly and resolve common development questions on Google Technologies |Andela Google Africa Developer Scholarship Mobile Web Mentor | Mobile Application Developer Pickdevs.UK.co I was working with CTO directly and Mentoring team | Optimizing performance on RegioJet.CZ Inc (2007) app (Like Uber) in more than 90 European cities.
 
-Harvard CELP & VPE, Facebook F8 Developer conference, Forbes Under 30 Scholar, THE INTERNET OF THINGS - King's College London Technical Member and content Writer at HackerRank
-Technologies:- Limitless, but focused too with 4-5 Years of experience TypeScript,Angular,Ionic,Node.js, PHP, Laravel,Nest.js,...
 Simply, Your technical Partner !!😁😎
 
 
@@ -19,7 +17,7 @@ Simply, Your technical Partner !!😁😎
 
 - 📫 How to reach me **ahmedragaba2015@gmail.com**
 
-- 📄 Know about my experiences [my Resume / CV](https://drive.google.com/file/d/1VPzsh73GAq1BHT1ok3Kid53tBH7KiBSp/view)
+- 📄 Know about my experiences [my Resume / CV] 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
