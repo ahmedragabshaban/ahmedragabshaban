@@ -3,7 +3,7 @@
 
 
 
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQEA6H8uMcJ9DA/profile-displaybackgroundimage-shrink_350_1400/B4EZg34AXUGYAY-/0/1753284086456?e=1759968000&v=beta&t=QvCi6imDBmHQqORxt_hWnf7ILSAEXBpbVt2snbnfNUs" alt="ahmedragabshaba" />
+<img src="./Ahmed Megahd_ Speaker.jpeg" alt="ahmedragabshaba" />
 <h1 align="center">Hi 👋, I'm Ahmed Megahd</h1>
 <h4 align="center" style="font-size:2.0rem; font-weight:700; margin:0 0 6px;">
 Senior / Lead Full-Stack Engineer — Web & Cross-Platform (Desktop/Electron, MV3 Extensions) — TypeScript · React/Next.js · Node/NestJS — Serverless (GCP/AWS)
@@ -16,8 +16,9 @@ Senior / Lead Full-Stack Engineer — Web & Cross-Platform (Desktop/Electron, MV
   <br/>
   <a href="mailto:ahmedragaba2015@gmail.com">ahmedragaba2015@gmail.com</a> ·
   <a href="https://www.linkedin.com/in/ahmedragabshaban">LinkedIn</a> ·
+    <a href="https://flashy-turnip-c08.notion.site/Ahmed-Megahd-Conferences-Events-and-Talks-Portfolio-184257e1999a8016a6a1c83d241f983f">Keynote talks & community</a> ·
   <a href="https://stackoverflow.com/users/8008141">Stack Overflow</a>
-  <a href="https://flashy-turnip-c08.notion.site/Ahmed-Megahd-Conferences-Events-and-Talks-Portfolio-184257e1999a8016a6a1c83d241f983f">Keynote talks & community</a>
+
 
 </p>
 
@@ -74,5 +75,5 @@ I’m a **Senior/Lead Full-Stack** engineer and **cloud & web technologies exper
 ---
 
 <sub>
-Note: This GitHub hosts personal code samples. Professional code is under employer-managed GitHub/GitLab organizations (NDA/compliance).</sub>
+Note: This GitHub hosts old personal code samples. Professional code is under employer-managed GitHub/GitLab organizations (NDA/compliance).</sub>
 
